@@ -54,7 +54,3 @@ Predicted class: 1 with confidence: 0.99%
 
 - Test images should be in `.jpg` format and will be resized to 28x28 pixels.
 - The model must be pre-trained and saved as `mio_modello.keras`.
-
-## Author
-
-Project developed for educational purposes on neural networks
